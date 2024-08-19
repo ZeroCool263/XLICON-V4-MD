@@ -17,20 +17,20 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
 //  * @project_name : XLICON-V4-MD
-//  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
+//  * @author : 𝐃𝚫𝚪𝐊 𝚭𝚵𝚪𝚯𝐂𝚯𝚯𝐋
+//  * @youtube : https://www.youtube.com/@jayden01
 //  * @description : XLICON-V4 ,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: ahmmikun
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: DGXeon.
-//   * Credit To Xeon
+//Instagram: darkzerocool
+//Telegram: t.me/darkzerocool
+//GitHub: darkzerocool
+//WhatsApp: +263712473551
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jayden01
+//   * Created By Github: DarkZero.
+//   * Credit To Dark
 //   * © 2024 XLICON-V3-MD.
 // ⛥┌┤
 // */
@@ -39,24 +39,24 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: S4 SALMAN YT" //ur yt chanel name
-global.socialm = "GitHub: salmanytofficial" //ur github or insta name
-global.location = "Pakistan, Lahore, Sabzazar" //ur location
+global.ytname = "YT: JAYDEN01" //ur yt chanel name
+global.socialm = "GitHub: darkzerocool" //ur github or insta name
+global.location = "Pakistan, Islamabad, Islamabad" //ur location
 
 //new
 global.botname = 'XLICON-V4-MD' //ur bot name
-global.ownernumber = ['923184070915'] //ur owner number, dont add more than one
-global.ownername = '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙' //ur owner name
-global.websitex = "https://youtu.com/@s4salmanyt"
-global.wagc = "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.ownernumber = [263771482732'] //ur owner number, dont add more than one
+global.ownername = '𝐃𝚫𝚪𝐊 𝚭𝚵𝚪𝚯𝐂𝚯𝚯𝐋' //ur owner name
+global.websitex = "https://youtu.com/@Jayden01"
+global.wagc = "https://whatsapp.com/channel/0029VaZypgoIyPtaodVKp61o"
 global.themeemoji = '⛩'
 global.wm = "Xlicon Bot Inc."
 global.botscript = 'https://github.com/salmanytofficial/XLICON-V4-MD' //script link
-global.packname = "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉"
-global.author = "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
-global.creator = "923184070915@s.whatsapp.net"
+global.packname = "𝐃𝚫𝚪𝐊 𝚭𝚵𝚪𝚯𝐂𝚯𝚯𝐋"
+global.author = "MΛDΣ BY 𝐃𝚫𝚪𝐊 𝚭𝚵𝚪𝚯𝐂𝚯𝚯𝐋"
+global.creator = "263712473551@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923184070915"] // Premium User
+global.premium = ["263712473551"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
